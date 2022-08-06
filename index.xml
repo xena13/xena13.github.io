@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Doktorbu.org</title>
+    <title>Doktorbu</title>
     <link>https://doktorbu.org/</link>
-    <description>Recent content on Doktorbu.org</description>
+    <description>Recent content on Doktorbu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Aug 2022 13:05:06 +0300</lastBuildDate><atom:link href="https://doktorbu.org/index.xml" rel="self" type="application/rss+xml" />
